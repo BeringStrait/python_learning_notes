@@ -1,6 +1,3 @@
 # python_learning_notes
-Daria's notes
+It's nothing but Daria's notes.
 
-```
-print("hello world!")
-```
